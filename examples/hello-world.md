@@ -14,4 +14,4 @@ console.log(“Hello World!”);
 	Hello World!
 
 
-In this program, we have used the built-in `console.log()` function to print the string `Hello` world! on our screen.
+In this program, we have used the built-in `console.log()` function to print the string `Hello world!` on our screen.
