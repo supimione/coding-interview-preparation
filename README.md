@@ -2,6 +2,8 @@
 
 > To run this program open browser console  `Ctrl+Shift+J` and copy-paste the program and see your output.
 
+For debugging and testing purposes, we can use the `console.log()` and `document.write()` method to display data.
+
 ## Popular Examples
    1.  [Print Hello World](js-programming/blob/master/examples/hello-world.md)
    2.  [Add Two Numbers](js-programming/blob/master/examples/add-number.md)

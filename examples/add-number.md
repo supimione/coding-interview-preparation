@@ -7,9 +7,12 @@
 // This program adds two numbers
 
 var a, b, c;
+
 a = 10;
 b = 20;
+
 c = a + b;
+
 console.log("The sum of 10 and 20 is =" + c);
 
 ```
@@ -28,13 +31,17 @@ Changing this operator, we can subtract (-), multiply (*), divide (/), floor div
 // This program adds two numbers
 
 var number1, number2;	//taking a number from the user
-var n1,n2,sum; 		    // variable declaration
+var n1,n2,sum; 			// variable declaration
+
 number1 = prompt("Enter the First Number : ");
 number2 = prompt("Enter the Second Number : ");
+
 n1 = parseFloat(number1);
 n2 = parseFloat(number2);
+
 sum = n1 + n2;
-document.writeln("<h4> The sum of " + n1 + " and " + n2 + " is = " + sum + "</h4>");
+
+document.write("<h4> The sum of " + n1 + " and " + n2 + " is = " + sum + "</h4>");
 
 ```
 ##### Output:
