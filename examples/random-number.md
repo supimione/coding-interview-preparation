@@ -13,7 +13,7 @@ To generate a random number in JavaScript, `Math.random()` function is used. Thi
 ```javascript
 
 // Generate a random number 
-var random = Math.random( ); 
+var random = Math.random(); 
 document.write("Random Number Generated : " + random );
 
 //or,
