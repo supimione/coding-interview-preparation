@@ -41,9 +41,18 @@ n2 = parseFloat(number2);
 
 sum = n1 + n2;
 
+//or
+
+var n1 = Number(prompt("Enter the First Number : "));
+var n2 = Number(prompt("Enter the Second Number : "));
+
+var sum = n1 + n2;
+
 document.write("<h4> The sum of " + n1 + " and " + n2 + " is = " + sum + "</h4>");
 
 ```
 ##### Output:
 
-	The sum of `n1` and `n2` is = 30
+	Enter the First Number : 15
+	Enter the First Number : 15.6
+	The sum of `n1` and `n2` is = 30.6

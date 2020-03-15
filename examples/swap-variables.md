@@ -12,13 +12,15 @@ var x = 15;
 var y = 37;
 
 // To take inputs from the user
-// var x = prompt("Enter value of x: ")
-// var y = prompt("Enter value of y: ")
+var x = Number(prompt("Enter value of x: "));
+var y = Number(prompt("Enter value of y: "));
+
+// or,
 
 // create a temporary variable and swap the values
-temp = x
-x = y
-y = temp
+temp = x;
+x = y;
+y = temp;
 
 console.log("<h4> After Swapping: x = " + x + " and y = " + y + "</h4>");
 
