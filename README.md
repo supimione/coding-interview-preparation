@@ -13,7 +13,7 @@ For debugging and testing purposes, we can use the `console.log()` and `document
    6.  [Generate a Random Number](examples/random-number.md)
    7.  [Convert Kilometers to Miles](examples/km-mile.md)
    8.  [Convert Celsius to Fahrenheit](examples/celsius-fahrenheit.md)
-   9. [Check if a Number is Positive, Negative or 0](examples/positive-negative-zero.md)
+   9.  [Check if a Number is Positive, Negative or 0](examples/positive-negative-zero.md)
    10. [Check if a Number is Odd or Even](examples/odd-even.md)
    11. [Check Leap Year](examples/leap-year.md)
    12. [Find the Largest Among Three Numbers](examples/largest-number-three.md)
