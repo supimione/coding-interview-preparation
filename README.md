@@ -44,6 +44,7 @@ For debugging and testing purposes, we can use the `console.log()` and `document
    37. [Merge Mails](examples/merge-mails.md)
    38. [Find the Size (Resolution) of a Image](examples/resolution-image.md)
    39. [Find Hash of File](examples/hash-file.md)
+   40. [Check Perfect Number or Not](examples/perfect-number.md)
 
 
 
