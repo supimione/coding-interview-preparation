@@ -57,7 +57,7 @@
    2.  [5 10 20 40 80 160 . . . . . . Print Geometric Series](examples/geometric-series.md)
    3.  [1 3 5 7 9 11 13 15 . . . . .  Print Odd No. Series](examples/odd-series.md)
    4.  [2 4 6 8 10 12 14 16 . . . . . Print Even No. Series](examples/even-series.md)
-   5.  [1 4 9 16 25 36 49 . . . . . . Print Square No Series](examples/even-series.md)
+   5.  [1 4 9 16 25 36 49 . . . . . . Print Square No Series](examples/square-series.md)
    6.  [1 8 27 64 125 216 . . . . . . Print Cube No. Series](examples/cube-series.md)
    7.  [1 1 2 3 5 8 13 21 . . . . . . Print Fibonacci No. Series](examples/fibonacci-series.md)
    8.  [2 3 5 7 11 13 17 . . . . . .  Print Prime No. Series](examples/prime-series.md)
